@@ -1,0 +1,2 @@
+rm -rf ALU_tb.vcd
+rm -rf a.out
